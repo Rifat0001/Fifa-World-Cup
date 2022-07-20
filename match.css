@@ -1,0 +1,34 @@
+.flag-box{
+    width: 312px;
+    height: 242px;
+    border-radius: 10px;
+    box-shadow: 1px 1px rgb(216, 216, 216) , -1px -1px rgb(216, 216, 216);
+}
+.flags{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 50px;
+}
+.floag-details{
+  text-align: center;
+}
+.box-1{
+    background-color: blue;
+}
+.box-1 a{
+    color: white;
+}
+.box-3{
+    background-color: white;
+}
+.box-3 a{
+    color: black;
+}
+main{
+    margin: 50px 0;
+}
+
+/* Mobile - Device - Design  */
+
+
